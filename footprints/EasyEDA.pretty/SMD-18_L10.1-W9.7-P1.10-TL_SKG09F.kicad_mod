@@ -32,7 +32,7 @@
 	(fp_circle (center -4.85 -5.05) (end -4.82 -5.05) (layer F.SilkS) (width 0.06))
 	(fp_circle (center -6.10 -4.40) (end -5.90 -4.40) (layer Cmts.User) (width 0.40))
 	(fp_circle (center -3.18 -4.45) (end -2.72 -4.45) (layer F.SilkS) (width 0.20))
-	(model "${KICAD_3RD_PARTY}/EasyEDA.3dshapes/SMD-18_L10.1-W9.7-P1.10-TL_SKG09F.wrl"
+	(model "${KIPRJMOD}/lib/margo-kicad/footprints/EasyEDA.pretty/EasyEDA.3dshapes/SMD-18_L10.1-W9.7-P1.10-TL_SKG09F.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 90))
